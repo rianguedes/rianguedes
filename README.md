@@ -1,4 +1,7 @@
-## 🛠️ VSCode Settings
+## ⚙️ VSCode Settings
+
+<details>
+<summary>Clique para expandir o <code>settings.json</code> completo</summary>
 
 ```json
 {
@@ -15,10 +18,7 @@
   "terminal.integrated.fontFamily": "JetBrains Mono",
   "terminal.integrated.fontSize": 14,
   "editor.lineHeight": 1.8,
-  "editor.rulers": [
-    80,
-    120
-  ],
+  "editor.rulers": [80, 120],
   "editor.renderLineHighlight": "gutter",
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
