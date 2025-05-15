@@ -1,5 +1,6 @@
-Setings.json
+## 🛠️ VSCode Settings
 
+```json
 {
   "workbench.startupEditor": "newUntitledFile",
   "workbench.colorTheme": "Vesper ++",
